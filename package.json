@@ -3,7 +3,7 @@
 	"private": true,
 	"devDependencies": {
 		"lerna": "^4.0.0",
-		"release-it": "^14.6.1"
+		"release-it": "^15.6.0"
 	},
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
